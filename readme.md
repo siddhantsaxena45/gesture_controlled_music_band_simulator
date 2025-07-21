@@ -1,4 +1,4 @@
-# 🎶 Voice Band Simulator with Gesture Control
+# 🎶 Music Band Simulator with Gesture Control
 
 A Python-based music loop simulator that lets you record, play, and mix instrument loops using voice and gesture inputs. Powered by **Pygame**, **MediaPipe**, **OpenCV**, and **PyDub**.
 
